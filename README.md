@@ -32,11 +32,11 @@ The script `uv run create_filtered.py` will create the filtered images based on 
 If you use this software in your research, please include a link to the repository and reference the following paper:
 
 ```bibtex
-@article{goering2026instareal,
-  author       = {Göring, Steve and Menz, William and Rao, Rakesh},
-  date         = {2026},
+@inproceedings{goering2026instareal,
+  author       = {Steve Göring and William Menz and Rakesh Rao},
+  year         = {2026},
   title        = {Analysis of appeal, quality, and realism for Instagram-like filtered real photos},
-  booktitle    = {18h International Conference on Quality of Multimedia Experience (QoMEX)}
+  booktitle    = {18h International Conference on Quality of Multimedia Experience (QoMEX)},
 }
 ```
 
