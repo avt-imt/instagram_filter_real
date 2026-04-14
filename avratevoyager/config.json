@@ -1,0 +1,9 @@
+{
+    "welcome_msg": "Instagram-like filters with images",
+    "rating_template": "rating/multi_slider.tpl",
+    "title": "Instagram-like filters with images",
+    "max_stimuli": 150,
+    "cookie_secret": "x-files-forever",
+    "http_user_name": "stg7",
+    "http_user_password": "test"
+}

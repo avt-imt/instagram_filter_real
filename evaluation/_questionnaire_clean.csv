@@ -1,0 +1,50 @@
+user_age_range,user_gender,user_perception_tests,user_eye_quality,user_room_quality,user_computer_type,user_test_origin,screen_size,browser_agent,user_ID,valid
+30 to 39,Male,Yes,Good,Alone in a Quiet Room,Laptop,steve s run,1920x968,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",1,True
+18 to 24,Male,Yes,Excellent,Some Noise and Distractions,Laptop,friend,1280x585,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",7,True
+40 to 49,Male,Yes,Good,Alone in a Quiet Room,Desktop,Clickworker Job,2048x1024,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15",10,True
+60 to 69,Male,Yes,Excellent,Alone in a Quiet Room,Desktop,Clickworker,1707x804,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",11,True
+30 to 39,Female,No,Excellent,Alone in a Quiet Room,Laptop,clickworker,1707x898,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",12,True
+30 to 39,Male,Yes,Excellent,Alone in a Quiet Room,Laptop,Clickworker,1920x945,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",13,True
+40 to 49,Female,Yes,Good,Some Noise and Distractions,Desktop,clickworker,1164x949,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0,14,True
+60 to 69,Male,No,Good,Alone in a Quiet Room,Desktop,Clickworker,1569x980,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",15,True
+30 to 39,Female,No,Good,Alone in a Quiet Room,Laptop,Clickworker,1536x730,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",16,True
+50 to 59,Female,Yes,Excellent,Alone in a Quiet Room,Laptop,clickworker,1920x911,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",18,True
+40 to 49,Male,No,Excellent,Alone in a Quiet Room,Desktop,clickworker,1366x635,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",19,True
+30 to 39,Female,Yes,Good,Alone in a Quiet Room,Laptop,Clickworker,1466x904,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",21,True
+40 to 49,Female,No,Good,Alone in a Quiet Room,Laptop,Clickworker,1485x827,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0,22,True
+30 to 39,Male,No,Excellent,Alone in a Quiet Room,Desktop,clickworker,1920x951,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",26,True
+30 to 39,Male,No,Excellent,Alone in a Quiet Room,Laptop,Through the Clickworker platform,1200x614,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",28,True
+30 to 39,Male,Yes,Good,Alone in a Quiet Room,Desktop,Clickworker,1024x655,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",29,True
+60 to 69,Female,Yes,Good,Alone in a Quiet Room,Laptop,Clickworker,1536x713,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0,30,True
+50 to 59,Male,Yes,Excellent,Alone in a Quiet Room,Desktop,Clickworker,1647x971,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",32,True
+40 to 49,Male,No,Excellent,Alone in a Quiet Room,Desktop,Clickworker,2560x945,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",33,True
+30 to 39,Female,No,Excellent,Alone in a Quiet Room,Laptop,Clickworker,409x220,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",34,True
+50 to 59,Female,No,Good,Alone in a Quiet Room,Laptop,clickworker,1366x606,Mozilla/5.0 (X11; Linux x86_64; rv:146.0) Gecko/20100101 Firefox/146.0,36,True
+60 to 69,Male,Yes,Good,Alone in a Quiet Room,Desktop,Clickworker,1536x695,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",37,True
+50 to 59,Male,No,Excellent,Alone in a Quiet Room,Desktop,Online-Plattform,1104x1076,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",39,True
+30 to 39,Male,Yes,Excellent,Alone in a Quiet Room,Desktop,clickworker,2240x1180,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15",40,True
+50 to 59,Male,No,Fair,Alone in a Quiet Room,Desktop,via Clickworker,2048x1018,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",43,True
+30 to 39,Male,Yes,Fair,Alone in a Quiet Room,Phone,yes,1158x2295,Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0,44,True
+40 to 49,Male,No,Excellent,Alone in a Quiet Room,Desktop,Clickworker,2560x1271,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",45,True
+40 to 49,Female,No,Good,Alone in a Quiet Room,Desktop,Clickworker,1174x545,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",46,True
+50 to 59,Male,No,Good,Alone in a Quiet Room,Laptop,Clickworker,1470x712,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",48,True
+40 to 49,Rather not say,No,Excellent,Alone in a Quiet Room,Laptop,Clickworker,1055x552,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0,49,True
+25 to 29,Female,Yes,Excellent,Alone in a Quiet Room,Laptop,Clickworker task,1280x551,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",50,True
+40 to 49,Female,No,Excellent,Alone in a Quiet Room,Tablet,.,1368x754,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0,51,True
+50 to 59,Female,Yes,Excellent,Alone in a Quiet Room,Desktop,I received an invitation from clickworker,840x1230,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",52,True
+50 to 59,Male,No,Good,Alone in a Quiet Room,Tablet,clickworker,1440x791,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",54,True
+30 to 39,Female,No,Excellent,Alone in a Quiet Room,Laptop,I received an invitation via clickworker,1536x705,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0,55,True
+30 to 39,Male,Yes,Fair,Alone in a Quiet Room,Phone,yes,1158x2295,Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0,56,True
+50 to 59,Female,No,Excellent,Alone in a Quiet Room,Desktop,Internet,1175x775,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",59,True
+30 to 39,Male,Yes,Good,Alone in a Quiet Room,Laptop,Clickworker,1920x911,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",61,True
+50 to 59,Male,Yes,Excellent,Alone in a Quiet Room,Desktop,Clickworker,1920x929,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0,66,True
+30 to 39,Male,Yes,Excellent,Alone in a Quiet Room,Desktop,.,1920x919,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",70,True
+25 to 29,Male,No,Excellent,Alone in a Quiet Room,Laptop,Informed by Clickworker,1200x614,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",71,True
+30 to 39,Male,Yes,Excellent,Alone in a Quiet Room,Laptop,Clickworker,1600x775,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0,72,True
+30 to 39,Female,Yes,Good,Alone in a Quiet Room,Laptop,Clickworker,1600x739,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",74,True
+40 to 49,Female,No,Good,Alone in a Quiet Room,Laptop,Online,1366x643,Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0,78,True
+50 to 59,Female,No,Good,Alone in a Quiet Room,Laptop,Internet,1280x688,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",81,True
+30 to 39,Female,Yes,Excellent,Some Noise and Distractions,Laptop,clickworker.de,1366x647,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",82,True
+30 to 39,Female,Yes,Excellent,Alone in a Quiet Room,Tablet,Clickworker ,820x1052,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",83,True
+30 to 39,Female,No,Excellent,Alone in a Quiet Room,Desktop,Clickworker,1920x911,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",84,True
+30 to 39,Female,No,Excellent,Alone in a Quiet Room,Desktop,Clickworker,1098x642,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",85,True

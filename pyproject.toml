@@ -1,0 +1,17 @@
+[project]
+name = "instagram-filter-real"
+version = "0.1.0"
+description = "code to reprocude paper about instagram filter evaluation for real images"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cpbd>=1.0.7",
+    "pandas>=2.3.3",
+    "pilgram>=2.0.0",
+    "pillow>=12.2.0",
+    "pyiqa>=0.1.15.post2",
+    "pywavelets>=1.8.0",
+    "scikit-learn>=1.7.2",
+    "scikit-video>=1.1.11",
+    "seaborn>=0.13.2",
+]
