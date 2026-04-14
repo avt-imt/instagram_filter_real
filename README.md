@@ -36,7 +36,7 @@ If you use this software in your research, please include a link to the reposito
   author       = {Göring, Steve and Menz, William and Rao, Rakesh},
   date         = {2026},
   title        = {Analysis of appeal, quality, and realism for Instagram-like filtered real photos},
-  booktitle    = "18h International Conference on Quality of Multimedia Experience (QoMEX)"
+  booktitle    = {18h International Conference on Quality of Multimedia Experience (QoMEX)}
 }
 ```
 
